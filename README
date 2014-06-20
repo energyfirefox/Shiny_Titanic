@@ -1,0 +1,7 @@
+This simple app help you understand what would be you destiny if you were a Titanic passenger.
+Here we use: 
+- cutted dataset (only age, sex and survived variables) from Kaggle Titanic competition dataset https://www.kaggle.com/c/titanic-gettingStarted  
+- caret package for prediction
+- ggplot2 package for plotting
+- shiny for deploying web-app
+
